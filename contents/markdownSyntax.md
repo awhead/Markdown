@@ -254,7 +254,7 @@
 > ### 사용법
 >
 > ```
-> ![예시](/images/example.png)
+> ![예시](./images/example.png)
 > ```
 >
 > ------
@@ -263,7 +263,7 @@
 >
 > ------
 >
-> ![예시](/images/example.png)
+> ![예시](./images/example.png)
 >
 > ------
 
