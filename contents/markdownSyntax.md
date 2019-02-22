@@ -20,8 +20,8 @@
 ## Syntax guide
 
 * [Headers](#headers)
-* [Emphasis(강조)](#Emphasis(강조))
-* [Lists(목록)](#Lists(목록))
+* [Emphasis(강조)](#Emphasis강조)
+* [Lists(목록)](#Lists목록)
 * [Links](#Links)
 * [Images](#Images)
 
@@ -203,15 +203,17 @@
 
 > 헤드라인을 클릭하면 해당 헤드라인으로 이동한다.
 > 또한, 문서 내 헤드라인으로 이동할 수 있게 링크를 걸 수 있다.
+> 
 >
 > ### 사용법
 >
 > ```
-> [Test로 이동](#test) <br /><br /><br />
+> [Test()로 이동](#test) <br /><br /><br />
 > 
 > 
-> ### test
+> ### test()
 > ```
+>참고 : 헤드라인에 있는 특수문자는 제외하고 링크 지정
 >
 > ------
 >
@@ -219,12 +221,12 @@
 >
 > ------
 >
-> [Test로 이동](#test)<br /><br /><br />
+> [Test()로 이동](#test)<br /><br /><br />
 >
 > 
 >
 >
-> ### test
+> ### test()
 >
 > ------
 
