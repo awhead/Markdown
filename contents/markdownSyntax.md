@@ -88,9 +88,7 @@ _기울어진 **굵은** 글씨_
 
 > ### 결과
 *기울이기*</br>
-_기울이기_
-
----
+_기울이기_</br>
 </br>
 
 **굵은글씨**</br>
@@ -150,7 +148,7 @@ _기울어진 **굵은** 글씨_ <br />
 ### 인라인 링크
 '[ ]'로 텍스트를 감싸서 인라인 링크를 만들 수 있다. 그리고 '( )'안에 URL을 입력한다. 
 Ctrl + k 단축키로도 생성 가능하다.
-> ##### 깃허브는 커멘트에 유효한 URL이 적힌다면, 자동으로 링크를 생성해준다. "[Autolinked references and URLS](https://help.github.com/en/articles/autolinked-references-and-urls)."
+>> 깃허브는 커멘트에 유효한 URL이 적힌다면, 자동으로 링크를 생성해준다. "[Autolinked references and URLS](https://help.github.com/en/articles/autolinked-references-and-urls)."
 </br></br>
 
 > ### 사용법
@@ -175,7 +173,7 @@ Ctrl + k 단축키로도 생성 가능하다.
  
 ### test()
 ```
-> ##### 헤드라인에 있는 특수문자는 제외하고 링크 지정
+>> 헤드라인에 있는 특수문자는 제외하고 링크 지정
 </br>
 
 > ### 결과
