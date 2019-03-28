@@ -15,9 +15,9 @@
 * Comments in Issues and Pull Requests
 * .md 혹은 .markdown 확장자 파일
 
+</br>
 
-
-> ##### Syntax List
+> ### Syntax List
 
 * [Headers](#headers)
 
